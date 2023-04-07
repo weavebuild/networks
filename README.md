@@ -1,7 +1,6 @@
 # testnets
-ressources for getting started with tomahawk testnets
+ressources for getting started with lumina testnets
 
-- **Tahohon_3332**: development testnet
-- **Mohawk**: incentivized testnet
-- **Thunderbird**: canary network
-- **Tomahawk_3330**: mainnet
+- **Andromeda**: development testnet
+- **Centaurus**: incentivized testnet
+- **Pegasus**: canary network
