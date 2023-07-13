@@ -1,6 +1,4 @@
 # testnets
-ressources for getting started with lumina testnets
+ressources for getting started with castor testnets
 
-- **Andromeda**: development testnet
-- **Centaurus**: incentivized testnet
-- **Pegasus**: canary network
+- **Pollux**: alpha testnet
